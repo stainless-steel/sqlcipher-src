@@ -1,4 +1,4 @@
-# sqlcipher-provider [![Version][version-img]][version-url]
+# sqlcipher-src [![Version][version-img]][version-url]
 
 The package provides [SQLCipher][1].
 
@@ -10,5 +10,5 @@ will be licensed according to the terms given in [LICENSE.md](LICENSE.md).
 
 [1]: https://www.zetetic.net/sqlcipher
 
-[version-img]: https://img.shields.io/crates/v/sqlcipher-provider.svg
-[version-url]: https://crates.io/crates/sqlcipher-provider
+[version-img]: https://img.shields.io/crates/v/sqlcipher-src.svg
+[version-url]: https://crates.io/crates/sqlcipher-src

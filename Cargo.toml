@@ -1,11 +1,11 @@
 [package]
-name = "sqlcipher-provider"
+name = "sqlcipher-src"
 version = "0.1.0"
 license = "Apache-2.0/MIT"
 authors = ["Ivan Ukhov <ivan.ukhov@gmail.com>"]
 description = "The package provides SQLCipher."
-homepage = "https://github.com/stainless-steel/sqlcipher-provider"
-repository = "https://github.com/stainless-steel/sqlcipher-provider"
+homepage = "https://github.com/stainless-steel/sqlcipher-src"
+repository = "https://github.com/stainless-steel/sqlcipher-src"
 build = "build.rs"
 links = "sqlcipher"
 
